@@ -41,7 +41,11 @@ As a software developer, Justin has started his career since 2007, working in ma
 ## Recent blogs (KO) ##
 
 <!--START_SECTION:devkimchi-->
-...
+* [Renewal](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;14&#x2F;renewal&#x2F;)
+* [Azure Functions with IoC Container](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;16&#x2F;azure-functions-with-ioc-container&#x2F;)
+* [Outbound IP Registration to Azure SQL Using Azure Functions](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;17&#x2F;outbound-ip-registration-to-azure-sql-using-azure-functions&#x2F;)
+* [Securing SAS Token from Azure Logic Apps](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;07&#x2F;securing-sas-token-from-azure-logic-apps&#x2F;)
+* [SOAP over Azure API Management, Logic Apps and Functions](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;11&#x2F;soap-over-azure-api-management-logic-apps-and-functions&#x2F;)
 <!--END_SECTION:devkimchi-->
 
 
