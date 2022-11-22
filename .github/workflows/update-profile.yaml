@@ -1,0 +1,19 @@
+name: Update Profile
+
+on:
+  workflow_dispatch
+
+jobs:
+  update_profile:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://blog.aliencube.org/feed.xml
+        readme-section: aliencube
+
+    - uses: JasonEtco/rss-to-readme@v1
+      with:
+        feed-url: https://devkimchi.com/feed.xml
+        readme-section: devkimchi
