@@ -40,7 +40,6 @@ As a software developer, Justin has started his career since 2007, working in ma
 
 ## Recent blogs (KO) ##
 
-
 <!--START_SECTION:aliencube-->
 * [XmlWriter 클라스와 XmlTextWriter 클라스의 차이](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;06&#x2F;04&#x2F;xmlwriter-xmltextwriter&#x2F;)
 * [XmlNode와 XElement간 상호 변환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;17&#x2F;xmlnode-xelement&#x2F;)
