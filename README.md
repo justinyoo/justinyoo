@@ -27,7 +27,7 @@ As a software developer, Justin has started his career since 2007, working in ma
   * Before being the HR expert, I was a teacher.
 
 
-## Recent blogs (EN) ##
+## Recent blog posts (EN) ##
 
 <!--START_SECTION:devkimchi-->
 * [DevContainers for .NET developers on Azure](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;10&#x2F;12&#x2F;devcontainers-for-dotnet-devs-on-azure&#x2F;)
@@ -38,7 +38,7 @@ As a software developer, Justin has started his career since 2007, working in ma
 <!--END_SECTION:devkimchi-->
 
 
-## Recent blogs (KO) ##
+## Recent blog posts (KO) ##
 
 <!--START_SECTION:aliencube-->
 * [닷넷 개발자를 위한 개발 컨테이너 설정](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;10&#x2F;12&#x2F;devcontainers-for-dotnet-devs-on-azure&#x2F;)
