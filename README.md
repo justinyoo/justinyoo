@@ -2,7 +2,7 @@
 
 ## I'm a [Cloud Advocate](https://aka.ms/justinyoo) at Microsoft ##
 
-As a software developer, Justin has started his career since 2007, working in many different industries including non-profit, telecommunication, manufacturing, finance, entertainment and energy. He always seeks a way to help every single individual and organisations on the planet to achieve more, with less resources. With this regards, Justin mostly focuses on:
+As a software developer, Justin has started his career since 2007, working in many different industries including non-profit, telecommunication, manufacturing, finance, entertainment and energy. He always seeks a way to help every single individual and organisation on this planet to achieve more, with less resources. From that regards, Justin mostly focuses on:
 
 * [.NET](https://dotnet.microsoft.com/) 👉 The most high-performing programming language,
 * [Azure](https://azure.microsoft.com/) 👉 The most comprehensive cloud service platform, and
