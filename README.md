@@ -15,7 +15,7 @@ As a software developer, Justin has started his career since 2007, working in ma
 * 📝 writing blog posts in English at [https://devkimchi.com](https://devkimchi.com).
 * 📝 writing blog posts in Korean at [https://blog.aliencube.org](https://blog.aliencube.org).
 * 📢 tweeting on <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/1DA1F2" /> as [@justinchronicle](https://twitter.com/justinchronicle).
-* 📢 tooting on <img height="16" width="16" src="https://cdn.simpleicons.org/mastodon/6364FF" /> as [@justinchronicle@mastodon.social](https://mastodon.social/@justinchronicle).
+* 📢 tooting on <img height="16" width="16" src="https://cdn.simpleicons.org/mastodon/6364FF" /> as <a rel="me" href="https://mastodon.social/@justinchronicle">@justinchronicle@mastodon.social</a>.
 * 📢 sharing ideas on <img height="16" width="16" src="https://cdn.simpleicons.org/linkedin/0A66C2" /> as [justinyoo](https://linkedin.com/in/justinyoo).
 
 
