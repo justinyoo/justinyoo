@@ -41,11 +41,11 @@ As a software developer, Justin has started his career since 2007, working in ma
 ## Recent blogs (KO) ##
 
 <!--START_SECTION:aliencube-->
-* [XmlWriter 클라스와 XmlTextWriter 클라스의 차이](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;06&#x2F;04&#x2F;xmlwriter-xmltextwriter&#x2F;)
-* [XmlNode와 XElement간 상호 변환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;17&#x2F;xmlnode-xelement&#x2F;)
-* [웹사이트에서 중국어(간체), 중국어(번체) 및 일본어 글꼴 표현하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;displaying-fonts-for-chinese-simplified-chinese-traditional-and-japanese&#x2F;)
-* [IE8 에서 input 태그와 textarea 태그에 placeholder 속성 적용하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;ie8-input-textarea-placeholder&#x2F;)
-* [인트라넷상에서 강제로 IE 문서모드 전환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;22&#x2F;forcing-document-mode-of-ie-within-intranet&#x2F;)
+* [닷넷 개발자를 위한 개발 컨테이너 설정](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;10&#x2F;12&#x2F;devcontainers-for-dotnet-devs-on-azure&#x2F;)
+* [깃헙 페이지에서 블레이저 웹어셈블리의 404 페이지 출력하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;10&#x2F;05&#x2F;404-page-of-blazor-wasm-on-gh-pages&#x2F;)
+* [애저 AD B2C를 이용해 블레이저 웹어셈블리 앱 인증 모듈 연동하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;09&#x2F;23&#x2F;authn-ing-blazor-wasm-with-azure-ad-b2c&#x2F;)
+* [기존 크롬 익스텐션을 블레이저 웹어셈블리로 이전하기 #3 - 크로스 브라우저 호환](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;08&#x2F;31&#x2F;lift-and-shift-existing-chrome-extension-to-blazor-wasm-3&#x2F;)
+* [기존 크롬 익스텐션을 블레이저 웹어셈블리로 이전하기 #2 - 자바스크립트 상호운용성](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2022&#x2F;07&#x2F;20&#x2F;lift-and-shift-existing-chrome-extension-to-blazor-wasm-2&#x2F;)
 <!--END_SECTION:aliencube-->
 
 
