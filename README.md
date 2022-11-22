@@ -29,17 +29,6 @@ As a software developer, Justin has started his career since 2007, working in ma
 
 ## Recent blogs (EN) ##
 
-<!--START_SECTION:aliencube-->
-* [XmlWriter 클라스와 XmlTextWriter 클라스의 차이](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;06&#x2F;04&#x2F;xmlwriter-xmltextwriter&#x2F;)
-* [XmlNode와 XElement간 상호 변환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;17&#x2F;xmlnode-xelement&#x2F;)
-* [웹사이트에서 중국어(간체), 중국어(번체) 및 일본어 글꼴 표현하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;displaying-fonts-for-chinese-simplified-chinese-traditional-and-japanese&#x2F;)
-* [IE8 에서 input 태그와 textarea 태그에 placeholder 속성 적용하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;ie8-input-textarea-placeholder&#x2F;)
-* [인트라넷상에서 강제로 IE 문서모드 전환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;22&#x2F;forcing-document-mode-of-ie-within-intranet&#x2F;)
-<!--END_SECTION:aliencube-->
-
-
-## Recent blogs (KO) ##
-
 <!--START_SECTION:devkimchi-->
 * [Renewal](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;14&#x2F;renewal&#x2F;)
 * [Azure Functions with IoC Container](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;16&#x2F;azure-functions-with-ioc-container&#x2F;)
@@ -47,6 +36,18 @@ As a software developer, Justin has started his career since 2007, working in ma
 * [Securing SAS Token from Azure Logic Apps](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;07&#x2F;securing-sas-token-from-azure-logic-apps&#x2F;)
 * [SOAP over Azure API Management, Logic Apps and Functions](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;11&#x2F;soap-over-azure-api-management-logic-apps-and-functions&#x2F;)
 <!--END_SECTION:devkimchi-->
+
+
+## Recent blogs (KO) ##
+
+
+<!--START_SECTION:aliencube-->
+* [XmlWriter 클라스와 XmlTextWriter 클라스의 차이](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;06&#x2F;04&#x2F;xmlwriter-xmltextwriter&#x2F;)
+* [XmlNode와 XElement간 상호 변환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;17&#x2F;xmlnode-xelement&#x2F;)
+* [웹사이트에서 중국어(간체), 중국어(번체) 및 일본어 글꼴 표현하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;displaying-fonts-for-chinese-simplified-chinese-traditional-and-japanese&#x2F;)
+* [IE8 에서 input 태그와 textarea 태그에 placeholder 속성 적용하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;19&#x2F;ie8-input-textarea-placeholder&#x2F;)
+* [인트라넷상에서 강제로 IE 문서모드 전환하기](https:&#x2F;&#x2F;blog.aliencube.org&#x2F;ko&#x2F;2013&#x2F;07&#x2F;22&#x2F;forcing-document-mode-of-ie-within-intranet&#x2F;)
+<!--END_SECTION:aliencube-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinyoo)](https://github.com/anuraghazra/github-readme-stats)
