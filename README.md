@@ -30,11 +30,11 @@ As a software developer, Justin has started his career since 2007, working in ma
 ## Recent blogs (EN) ##
 
 <!--START_SECTION:devkimchi-->
-* [Renewal](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;14&#x2F;renewal&#x2F;)
-* [Azure Functions with IoC Container](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;16&#x2F;azure-functions-with-ioc-container&#x2F;)
-* [Outbound IP Registration to Azure SQL Using Azure Functions](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;11&#x2F;17&#x2F;outbound-ip-registration-to-azure-sql-using-azure-functions&#x2F;)
-* [Securing SAS Token from Azure Logic Apps](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;07&#x2F;securing-sas-token-from-azure-logic-apps&#x2F;)
-* [SOAP over Azure API Management, Logic Apps and Functions](https:&#x2F;&#x2F;devkimchi.com&#x2F;2017&#x2F;12&#x2F;11&#x2F;soap-over-azure-api-management-logic-apps-and-functions&#x2F;)
+* [DevContainers for .NET developers on Azure](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;10&#x2F;12&#x2F;devcontainers-for-dotnet-devs-on-azure&#x2F;)
+* [Handling Custom 404 Page on GH Pages with Blazor WASM](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;10&#x2F;05&#x2F;404-page-of-blazor-wasm-on-gh-pages&#x2F;)
+* [AuthN-ing Blazor WASM with Azure AD B2C](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;09&#x2F;23&#x2F;authn-ing-blazor-wasm-with-azure-ad-b2c&#x2F;)
+* [Lift &amp; Shift Existing Chrome Extension to Blazor WebAssembly #3 - Cross-Browser Compatibility](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;08&#x2F;31&#x2F;lift-and-shift-existing-chrome-extension-to-blazor-wasm-3&#x2F;)
+* [Lift &amp; Shift Existing Chrome Extension to Blazor WebAssembly #2](https:&#x2F;&#x2F;devkimchi.com&#x2F;2022&#x2F;07&#x2F;20&#x2F;lift-and-shift-existing-chrome-extension-to-blazor-wasm-2&#x2F;)
 <!--END_SECTION:devkimchi-->
 
 
